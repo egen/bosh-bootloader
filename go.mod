@@ -42,7 +42,7 @@ require (
 	github.com/spf13/afero v1.2.0
 	github.com/ulikunitz/xz v0.5.4 // indirect
 	github.com/vmware/govmomi v0.18.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.31.0
 	golang.org/x/oauth2 v0.0.0-20181203162652-d668ce993890
 	google.golang.org/api v0.1.0
 	gopkg.in/ini.v1 v1.51.1 // indirect
